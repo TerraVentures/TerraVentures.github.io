@@ -21,3 +21,7 @@ Thumbs.db
 .Trashes
 .idea
 .vs
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/TerraVentures.github.io/v17/.wsuo
+/.vs/TerraVentures.github.io/FileContentIndex/read.lock
