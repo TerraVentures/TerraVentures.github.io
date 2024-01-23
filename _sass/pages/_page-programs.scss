@@ -1,0 +1,9 @@
+.page-programs {
+   .program-summary {
+      @include media-breakpoint-up(md) {
+         .program-title {
+            height: 4rem;
+         }
+      }
+   }
+}
